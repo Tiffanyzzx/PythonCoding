@@ -8,3 +8,4 @@
 
 # Corner Cases
 # What if A is null? We should return 0 in this case.
+class Total_Occur():
