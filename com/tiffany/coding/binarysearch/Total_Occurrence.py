@@ -17,8 +17,8 @@ class Solution():
             return 0
 
         # step 2: create objects based on above-mentioned class & identify final returns
-        firstOccur = self.firstOccur(array, target) # go to step 3
-        lastOccur = self.lastOccur(array, target) # go to step 4
+        firstOccur = self.firstOccur(array, target)  # go to step 3
+        lastOccur = self.lastOccur(array, target)  # go to step 4
 
         if lastOccur == -1:
             return 0
@@ -65,8 +65,7 @@ class Solution():
             if array[mid] <= target:
                 left = mid
             elif array[mid] > target:
-                right = left
-
+                right = mid
         # 4.3: post processing, check right item first
         if array[right] == target:
             return right
@@ -75,10 +74,10 @@ class Solution():
         else:
             return -1
 
+
 # running an example
 p1 = Solution()
-array = [1,2,2,2,4,5,8,13,13]
-target = 13
+array = [1, 2, 2, 2, 4, 5, 8, 13, 13]
+target = 5
 res = p1.totalOccur(array, target)
 print(res)
-
