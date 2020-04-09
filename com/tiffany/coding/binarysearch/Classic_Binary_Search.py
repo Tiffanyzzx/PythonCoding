@@ -33,11 +33,12 @@ class Solution():
 
 
 # one way to use the class:
-p1 = Solution() # create an object 1st
+p1 = Solution()  # create an object 1st
 array = [3, 4, 5, 5, 6, 9, 16]
 target = 9
-res = p1.binary_search(array, target) # variable
+res = p1.binary_search(array, target)  # variable
 print(res)
+
 
 # another way to use the class:
 def main():
@@ -46,4 +47,6 @@ def main():
     target = 5
     res = p1.binary_search(array, target)  # variable
     print(res)
+
+
 main()
