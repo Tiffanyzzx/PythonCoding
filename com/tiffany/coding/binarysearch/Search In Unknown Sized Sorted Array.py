@@ -16,7 +16,7 @@
 # test example: matrix = [[[]]
 # target = 100
 
-class Solution ():
+class Solution():
     def search(self, matrix, target):
 
         # step 1: corner case checking
@@ -34,16 +34,17 @@ class Solution ():
 
         # 3.2: use binary search to remain one item
         while left <= right:
-            mid = (left + right) // 2 # calc mid in 1D array
-            x = mid // col # convert which row the calculated mid is located in 2D matrix
-            y = mid % col # convert which column the calculated mid is located in 2D matrix
+            mid = (left + right) // 2  # calc mid in 1D array
+            x = mid // col  # convert which row the calculated mid is located in 2D matrix
+            y = mid % col  # convert which column the calculated mid is located in 2D matrix
             if matrix[x][y] == target:
-                return [x,y]
+                return [x, y]
             elif matrix[x][y] < target:
                 left = mid + 1
             elif matrix[x][y] > target:
                 right = mid - 1
-        return [-1,-1]
+        return [-1, -1]
+
 
 p1 = Solution()
 matrix = []
