@@ -9,6 +9,9 @@
 # Corner Cases
 # What if A is null? We should return 0 in this case.
 
+# test example: array = [1, 2, 2, 2, 4, 5, 8, 13, 13]
+# target = 5
+
 class Solution():
     def totalOccur(self, array, target):
 

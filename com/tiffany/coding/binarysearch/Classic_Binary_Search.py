@@ -12,6 +12,9 @@
 # Corner Cases
 # What if A is null or A is of zero length? We should return -1 in this case.
 
+# test example:    array = [3, 4, 5, 5, 6, 9, 16]
+# target = 5
+
 class Solution():
 
     def binary_search(self, array, target):
