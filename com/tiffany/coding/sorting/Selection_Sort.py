@@ -44,6 +44,6 @@ class Solution2():
             array[i], array[min] = array[min], array[i]
         return array
 p2 = Solution2
-array = [3,5,1,2,4,8]
-res = p1.solve(array)
+array2 = [3,5,1,2,4,8]
+res = p2.solve2(array)
 print(res)
