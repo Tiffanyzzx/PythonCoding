@@ -110,11 +110,3 @@ class Solution(object):
             strs.append(str(cursor.val))
             cursor = cursor.next
         return "->".join(strs)
-
-# Your Solution object will be instantiated and called as such:
-# obj = Solution()
-# param_1 = obj.get(index)
-# obj.addAtHead(val)
-# obj.addAtTail(val)
-# obj.addAtIndex(index,val)
-# obj.deleteAtIndex(index)
