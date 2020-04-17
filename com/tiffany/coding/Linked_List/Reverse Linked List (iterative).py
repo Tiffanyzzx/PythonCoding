@@ -40,17 +40,16 @@ class Solution():
         return dummy_head.next
 
     def print_list(self, head):
-        while head:
+        while head != None:
             print(head.val)
             head = head.next
 
 
 # use an example to practice the reverse function
 input = [1, 2, 3, 4, 5]
+
 p1 = Solution()
-
 head = p1.build_list(input)
-
 reverse = p1.reverse(head)
 
 p1.print_list(reverse)
