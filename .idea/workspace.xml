@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84404e21-0f1f-42cf-9617-ec82bc10202a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Reverse Linked List (iterative).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v2.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/tiffany/coding/binarysearch/Total_Occurrence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
+            <state relative-caret-position="-334">
               <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
             </state>
           </provider>
@@ -61,11 +58,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Reverse Linked List (iterative).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -100,12 +106,13 @@
         <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v2.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v1.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v1.py" />
+        <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Reverse Linked List (iterative).py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="1680" />
-    <option name="width" value="1920" />
+    <option name="x" value="2801" />
+    <option name="width" value="799" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -155,14 +162,6 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="tiffany" type="462c0819:PsiDirectoryNode" />
               <item name="coding" type="462c0819:PsiDirectoryNode" />
-              <item name="Class practice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonCoding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonCoding" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tiffany" type="462c0819:PsiDirectoryNode" />
-              <item name="coding" type="462c0819:PsiDirectoryNode" />
               <item name="Linked_List" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -195,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Variable &amp; Syntax">
+  <component name="RunManager" selected="Python.Reverse Linked List (iterative)">
     <configuration name="First_Ocurrence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonCoding" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -238,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Search In Unknown Sized Sorted Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Reverse Linked List (iterative)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonCoding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,11 +245,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tiffany/coding/binarysearch" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tiffany/coding/Linked_List" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tiffany/coding/binarysearch/Search In Unknown Sized Sorted Array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Reverse Linked List (iterative).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,11 +302,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Reverse Linked List (iterative)" />
         <item itemvalue="Python.Variable &amp; Syntax" />
         <item itemvalue="Python.Number_of_Nodes" />
         <item itemvalue="Python.Selection_Sort" />
         <item itemvalue="Python.First_Ocurrence" />
-        <item itemvalue="Python.Search In Unknown Sized Sorted Array" />
       </list>
     </recent_temporary>
   </component>
@@ -325,19 +324,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="2683" y="0" width="917" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.106371775" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22544643" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3188119" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3188119" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32970297" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -417,13 +416,6 @@
     <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Design Linked List_v2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/binarysearch/Total_Occurrence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/tiffany/coding/sorting/Selection_Sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
@@ -448,13 +440,6 @@
     <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="111" column="30" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Class practice/Variable &amp; Syntax.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -462,10 +447,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="111" column="30" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/binarysearch/Total_Occurrence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-334">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Reverse Linked List (iterative).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
         </state>
       </provider>
     </entry>
