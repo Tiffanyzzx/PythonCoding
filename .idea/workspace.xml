@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="84404e21-0f1f-42cf-9617-ec82bc10202a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v2.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,38 +55,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="8" selection-end-column="24" />
+            <state relative-caret-position="611">
+              <caret line="111" column="30" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-198">
-              <caret line="57" column="72" selection-start-line="57" selection-start-column="72" selection-end-line="57" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Class practice/Variable &amp; Syntax.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v1.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v2.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -109,13 +93,13 @@
         <option value="$PROJECT_DIR$/com/tiffany/coding/binarysearch/First_Ocurrence.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Number_of_Nodes.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Design Linked List.py" />
-        <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v1.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v2.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Design Linked List_v1.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Design Linked List_v2.py" />
-        <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v1.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Variable &amp; Syntax.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v2.py" />
+        <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v1.py" />
+        <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v1.py" />
       </list>
     </option>
   </component>
@@ -172,6 +156,14 @@
               <item name="tiffany" type="462c0819:PsiDirectoryNode" />
               <item name="coding" type="462c0819:PsiDirectoryNode" />
               <item name="Class practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonCoding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonCoding" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tiffany" type="462c0819:PsiDirectoryNode" />
+              <item name="coding" type="462c0819:PsiDirectoryNode" />
+              <item name="Linked_List" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -334,13 +326,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.106371775" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.106371775" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3188119" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3188119" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -415,9 +408,6 @@
     <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Design Linked List.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -426,13 +416,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Design Linked List_v2.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Class practice/Variable &amp; Syntax.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/com/tiffany/coding/binarysearch/Total_Occurrence.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -462,17 +445,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="611">
+          <caret line="111" column="30" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Single Linked List_v2.py">
+    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Class practice/Variable &amp; Syntax.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198">
-          <caret line="57" column="72" selection-start-line="57" selection-start-column="72" selection-end-line="57" selection-end-column="72" />
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>
