@@ -5,6 +5,10 @@
 #       return[expression]   #if there does not have a return value, then you do not need to write return
 
 
+
+
+
+
 # Question # 1
 # required arguments
 def printme(str):
@@ -63,29 +67,36 @@ print(y)
 
 
 
+
+
+
 # Question # 3
 # Global vs. Local variable
 
-y = "-" * 50
-print(y)
+# 3.1
+total = 5  # this is a global variable, located outside any function, can be accessed on any function in the program
+def sum (arg1, arg2):
+    total = arg1 + arg2  # this is a local variable
+    print("Inside the function, local variable is ", total)
 
-
-# Question # 1
-# required arguments
-
-y = "-" * 50
-print(y)
-
-
-# Question # 1
-# required arguments
+# call sum function
+sum(10, 20)
+print("Outside the function, global variable is ", total)
 
 y = "-" * 50
 print(y)
 
 
-# Question # 1
-# required arguments
 
-y = "-" * 50
-print(y)
+# 3.2
+total = 5  # this is a global variable, located outside any function, can be accessed on any function in the program
+def sum2 (arg1, arg2):
+
+    global total  # let following local variable equal to global variable
+    total = arg1 + arg2  # this is a global variable
+    print("Inside the function, local variable is ", total)  # the answer will equal to 30
+
+# call sum function
+sum2 (10, 20)
+print("Outside the function, global variable is ", total)  # the answer will be the same as local variable, 30
+
