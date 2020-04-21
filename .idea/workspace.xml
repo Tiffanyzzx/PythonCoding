@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84404e21-0f1f-42cf-9617-ec82bc10202a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Class practice/Function and Syntax/Function HW.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Class practice/Function and Syntax/Function Practices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Class practice/Function and Syntax/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Merge Two Sorted Linked Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/Tuple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tiffany/coding/Class practice/Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/tiffany/coding/Class practice/Function and Syntax/Functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tiffany/coding/Class practice/Pass by Object Reference.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/tiffany/coding/Class practice/Function and Syntax/Pass by Object Reference.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/tiffany/coding/Class practice/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/tiffany/coding/Class practice/Function and Syntax/loops.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,11 +28,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="94" column="65" lean-forward="true" selection-start-line="94" selection-start-column="65" selection-end-line="94" selection-end-column="65" />
+            <state relative-caret-position="251">
+              <caret line="100" selection-start-line="100" selection-end-line="101" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/String.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="605">
+              <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/Tuple.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -92,6 +103,8 @@
         <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Merge Two Sorted Linked Lists.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Function and Syntax/Function HW.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/List.py" />
+        <option value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/String.py" />
+        <option value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/Tuple.py" />
       </list>
     </option>
   </component>
@@ -191,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.List">
+  <component name="RunManager" selected="Python.Tuple">
     <configuration name="Function HW" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonCoding" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,7 +268,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pass by Object Reference" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="String" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonCoding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,11 +276,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tiffany/coding/Class practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Function and Syntax/Pass by Object Reference.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,7 +289,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="loops &amp; function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonCoding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,11 +297,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tiffany/coding/Class practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tiffany/coding/Class practice/loops &amp; function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/Tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,11 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Tuple" />
+        <item itemvalue="Python.String" />
         <item itemvalue="Python.List" />
         <item itemvalue="Python.Function HW" />
         <item itemvalue="Python.loops" />
-        <item itemvalue="Python.Pass by Object Reference" />
-        <item itemvalue="Python.loops &amp; function" />
       </list>
     </recent_temporary>
   </component>
@@ -540,8 +553,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="94" column="65" lean-forward="true" selection-start-line="94" selection-start-column="65" selection-end-line="94" selection-end-column="65" />
+        <state relative-caret-position="251">
+          <caret line="100" selection-start-line="100" selection-end-line="101" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/Tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
