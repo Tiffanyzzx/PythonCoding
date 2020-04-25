@@ -34,7 +34,7 @@ print(y)
 # 3) A function receives a reference to the same object in the memory as used by the caller.
 #  the function provides its own box and creats a new variable for itself
 
-# Example 3 : Function $ Reassign
+# Example 3 : Function $ Reassign & Modify
 
 # 3.1 reassign
 def reassign(x):
@@ -73,6 +73,19 @@ def modify(x):
 x = [0]        # original x is pointing to [0] object
 modify(x)      # create a copied x pointing to the original object, but the object will get modified after reading the method
 print(x)       # x = 1
+
+y = "-" * 50
+print(y)
+
+# 3.4 modify
+
+def changeme(mylist):
+    mylist.append([1,2,3])
+    return
+
+mylist = [10, 20, 30]
+changeme(mylist)
+print("value outside of the function:", mylist)
 
 
 

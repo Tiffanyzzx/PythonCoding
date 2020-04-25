@@ -149,3 +149,30 @@ n = int(input("How many numbers you would like to add: "))
 for i in range(n):
     total += int(input("Insert numbers: "))
 print(total)
+
+
+# lai offer quiz question
+
+for numb in range(10):
+    for numb % 3 == 0:
+        print("a")
+    for numb % 5 == 0:
+        print("b")
+    for numb % 7 == 0:
+        print("c")
+
+# when i = 0, then print abc
+# i = 3, a
+# i = 5, b
+# i = 6, a
+# i = 7, c
+# i = 9, a
+# answer: abcabaca
+
+
+
+
+
+
+
+
