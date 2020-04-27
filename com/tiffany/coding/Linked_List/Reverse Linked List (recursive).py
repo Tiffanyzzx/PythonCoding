@@ -39,6 +39,8 @@ class Solution():
         # we have to return from the last node of this linked list
         return new_head
         # when finishing the recursion, the new_head is equal to the last node cuz it is when the recursion stopped
+
+    # build another method to build the linked list
     def build_list(self, list):
         dummy_head = ListNode(0)
         cur = dummy_head
@@ -47,14 +49,16 @@ class Solution():
             cur = cur.next
         return dummy_head.next
 
+    # print method
     def print_list(self, head):
         while head != None:
             print(head.val)
             head = head.next
 
 
+
 # use an example to practice the reverse function
-input = [1, 2, 3, 4, 5]
+input = [1, 2, 3, 4, 9, 6, 5]
 
 p1 = Solution()
 head = p1.build_list(input)

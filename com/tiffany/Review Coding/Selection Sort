@@ -1,0 +1,12 @@
+# Given an array of integers, sort the elements in the array in ascending order.
+# The selection sort algorithm should be used to solve this problem.
+
+class Solution():
+    def solve(self, array):
+        for i in range(0, len(array), 1):
+            min = 0
+            for j in range(i, len(array)):
+                if array[j] < array[min]:
+                    min = j
+            array[i], array[min] = array[min], array[i]
+        return array
