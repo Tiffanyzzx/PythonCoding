@@ -11,6 +11,38 @@
 # What if the given array is null? In this case, we do not need to do anything.
 # What if the given array is of length zero? In this case, we do not need to do anything.
 
+
+class Solution():
+    def selection_sort(self, list):
+        for i in range(0, len(list)):
+            print("level ", i)
+
+            min = i
+
+            for j in range(i, len(list)):
+                print("compare", j)
+                if list[j] < list[min]:
+                    min = j
+                    print("min aft compare ", min)
+
+            list[i], list[min] = list[min], list[i]
+            print("after swag", list)
+
+        return list
+
+
+p1 = Solution()
+
+a = [9,8,7,1,2,3]
+
+res = p1.selection_sort(a)
+
+print(res)
+
+
+
+
+
 # Solution one: from max to min
 class Solution1():
     def solve(self, array):

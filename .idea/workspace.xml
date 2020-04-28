@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84404e21-0f1f-42cf-9617-ec82bc10202a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/tiffany/Review Coding/Bubble Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/sorting/Bubble Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/sorting/Insertation Sort (basic).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tiffany/Review Coding/Bubble Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/tiffany/Review Coding/Bubble Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tiffany/Review Coding/Selection Sort" beforeDir="false" afterPath="$PROJECT_DIR$/com/tiffany/Review Coding/Selection Sort" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/tiffany/coding/sorting/Selection_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/com/tiffany/coding/sorting/Selection_Sort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/tiffany/Review Coding/Selection Sort">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="28" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -35,8 +37,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/tiffany/coding/sorting/Selection_Sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="560">
+              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/tiffany/coding/sorting/Insertation Sort (basic).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -50,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/tiffany/Review Coding/Bubble Sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="345">
+              <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -87,15 +98,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Class practice/Function and Syntax/Pass by Object Reference.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1335">
-              <caret line="89" selection-start-line="89" selection-end-line="89" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Class practice/Function and Syntax/loops.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2535">
@@ -123,7 +125,6 @@
         <option value="$PROJECT_DIR$/com/tiffany/coding/binarysearch/Total_Occurrence.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/binarysearch/Classic_Binary_Search.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/binarysearch/Search In Unknown Sized Sorted Array.py" />
-        <option value="$PROJECT_DIR$/com/tiffany/coding/sorting/Selection_Sort.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/binarysearch/First_Ocurrence.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Number_of_Nodes.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Design Linked List.py" />
@@ -148,9 +149,11 @@
         <option value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Function and Syntax/loops.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/Tuple.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Reverse Linked List (recursive).py" />
-        <option value="$PROJECT_DIR$/com/tiffany/Review Coding/Selection Sort" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/sorting/Bubble Sort.py" />
         <option value="$PROJECT_DIR$/com/tiffany/Review Coding/Bubble Sort.py" />
+        <option value="$PROJECT_DIR$/com/tiffany/Review Coding/Selection Sort" />
+        <option value="$PROJECT_DIR$/com/tiffany/coding/sorting/Selection_Sort.py" />
+        <option value="$PROJECT_DIR$/com/tiffany/coding/sorting/Insertation Sort (basic).py" />
       </list>
     </option>
   </component>
@@ -247,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Bubble Sort (1)">
+  <component name="RunManager" selected="Python.Insertation Sort (basic)">
     <configuration name="Bubble Sort (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonCoding" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -311,7 +314,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Reverse Linked List (iterative)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Insertation Sort (basic)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonCoding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,11 +322,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tiffany/coding/Linked_List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tiffany/coding/sorting" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Reverse Linked List (iterative).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tiffany/coding/sorting/Insertation Sort (basic).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,7 +356,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Selection Sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonCoding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -361,11 +364,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/tiffany/Review Coding" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/Tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/tiffany/Review Coding/Selection Sort" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,11 +379,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Insertation Sort (basic)" />
+        <item itemvalue="Python.Selection Sort" />
         <item itemvalue="Python.Bubble Sort (1)" />
         <item itemvalue="Python.Bubble Sort" />
         <item itemvalue="Python.Reverse Linked List (recursive)" />
-        <item itemvalue="Python.Reverse Linked List (iterative)" />
-        <item itemvalue="Python.Tuple" />
       </list>
     </recent_temporary>
   </component>
@@ -401,18 +404,18 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1217601" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1217601" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.31782177" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.31734693" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -572,20 +575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/tiffany/Review Coding/Selection Sort">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/sorting/Selection_Sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/tiffany/coding/binarysearch/Search In Unknown Sized Sorted Array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -616,8 +605,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/tiffany/Review Coding/Bubble Sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="345">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tiffany/Review Coding/Selection Sort">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/sorting/Selection_Sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/sorting/Insertation Sort (basic).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>

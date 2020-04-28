@@ -18,3 +18,7 @@ a = [9,8,7,6,5,4,3]
 res = p1.bubble_sort(a)
 
 print(res)
+
+
+# time complexity O(n^2)
+# space complexity O(1)

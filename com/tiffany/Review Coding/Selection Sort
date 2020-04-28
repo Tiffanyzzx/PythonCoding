@@ -2,11 +2,28 @@
 # The selection sort algorithm should be used to solve this problem.
 
 class Solution():
-    def solve(self, array):
-        for i in range(0, len(array), 1):
-            min = 0
-            for j in range(i, len(array)):
-                if array[j] < array[min]:
+    def selection_sort(self, list):
+        for i in range(0, len(list)):
+            print("level ", i)
+
+            min = i
+
+            for j in range(i, len(list)):
+                print("compare", j)
+                if list[j] < list[min]:
                     min = j
-            array[i], array[min] = array[min], array[i]
-        return array
+                    print("min aft compare ", min)
+
+            list[i], list[min] = list[min], list[i]
+            print("after swag", list)
+
+        return list
+
+
+p1 = Solution()
+
+a = [9,8,7,1,2,3]
+
+res = p1.selection_sort(a)
+
+print(res)
