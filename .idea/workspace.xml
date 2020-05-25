@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84404e21-0f1f-42cf-9617-ec82bc10202a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Binary Tree Path Sum To Target I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Check If Binary Tree Is Balanced.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Height of Binary Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Invert Binary Tree_Botom to Top.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Invert Binary Tree_Top to Botom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Is Binary Search Tree Or Not_iteration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Is Binary Search Tree Or Not_recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Symmetric Binary Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Pre-order Traversal Of Binary Tree (iterative).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,11 +72,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Is Binary Search Tree Or Not_recursion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="584">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Pre-order Traversal Of Binary Tree (iterative).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -93,15 +95,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Binary Tree/In-order.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -121,7 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/com/tiffany/coding/Linked_List/Merge Two Sorted Linked Lists.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Function and Syntax/Function HW.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/List.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Class practice/Basic Data Structure/String.py" />
@@ -172,6 +164,7 @@
         <option value="$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Is Binary Search Tree Or Not.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Is Binary Search Tree Or Not_iteration.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Is Binary Search Tree Or Not_recursion.py" />
+        <option value="$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Pre-order Traversal Of Binary Tree (iterative).py" />
       </list>
     </option>
   </component>
@@ -412,21 +405,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2531" y="0" width="1069" height="1080" extended-state="0" />
+    <frame x="1680" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19274808" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.106371775" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33267328" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33267328" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32178217" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32178217" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -446,13 +439,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Reverse Linked List (recursive).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/tiffany/Review Coding/Selection Sort">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -778,8 +764,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Is Binary Search Tree Or Not_recursion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="584">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Binary Tree/Pre-order Traversal Of Binary Tree (iterative).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
         </state>
       </provider>
     </entry>
