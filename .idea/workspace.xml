@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84404e21-0f1f-42cf-9617-ec82bc10202a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/DFS/All Subsets I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/DFS/All_Valid_parentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/DFS/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/DFS/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/tiffany/coding/DFS/Combinations Of Coins.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,24 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/tiffany/coding/DFS/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="14" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Binary Tree/In-order.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Binary Tree/44. Pre-order Traversal Of Binary Tree (iterative).py">
           <provider selected="true" editor-type-id="text-editor">
@@ -81,13 +59,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/tiffany/coding/DFS/All_Valid_parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/tiffany/coding/DFS/Combinations Of Coins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/tiffany/coding/DFS/All Permutations I.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -114,8 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/com/tiffany/coding/sorting/Merge Sort Linked List.py" />
-        <option value="$PROJECT_DIR$/com/tiffany/coding/sorting/Merge Sort.py" />
         <option value="$PROJECT_DIR$/com/tiffany/Review Coding/Merge Sort.py" />
         <option value="$PROJECT_DIR$/com/tiffany/Review Coding/1.py" />
         <option value="$PROJECT_DIR$/com/tiffany/Review Coding/mm.py" />
@@ -165,12 +155,15 @@
         <option value="$PROJECT_DIR$/com/tiffany/coding/DFS/test.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/DFS/All Subsets I.py" />
         <option value="$PROJECT_DIR$/com/tiffany/coding/DFS/All_Valid_parentheses.py" />
+        <option value="$PROJECT_DIR$/com/tiffany/coding/DFS/Combinations Of Coins.py" />
+        <option value="$PROJECT_DIR$/com/tiffany/coding/DFS/All Permutations I.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="1680" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -407,10 +400,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="1680" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1217601" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.106371775" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -421,7 +414,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.33163264" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32178217" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -441,20 +434,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/sorting/Insertation Sort (basic).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="29" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/sorting/Insertation Sort (advanced).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/com/tiffany/coding/Linked_List/Deisgn Doubly Linked List_v1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -762,9 +741,19 @@
     <entry file="file://$PROJECT_DIR$/com/tiffany/coding/DFS/All_Valid_parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/DFS/Combinations Of Coins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/tiffany/coding/DFS/All Permutations I.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
